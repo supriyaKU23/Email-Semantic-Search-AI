@@ -18,27 +18,16 @@ This project builds a semantic search engine using the **Enron Email Dataset**. 
 
 ## 🏗️ Architecture
 
-```
-Email Dataset
-     ↓
-Document Processing (Text Splitter + Metadata Extraction)
-     ↓
-Embedding (Vector Representation)
-     ↓
-Vector Index (FAISS)
-     ↓               ↘
-User Query → Embedding → Query Processing
-     ↓
-Answer Generation
-```
+![emailsearchaiarchtecturediagram](https://github.com/user-attachments/assets/96455531-dbb8-46bc-93f0-a2139a5aa8f6)
+
 
 ---
 
 ## 📁 Files
 
 ```
-📜 Copy_of_Email_Search_AI_Project_full_dataset.ipynb  ← Main notebook containing the complete pipeline
-📁 data/                                               ← Email dataset files (CSV, JSON, or preprocessed)
+📜 Email_Search_AI_Project_full_dataset.ipynb  ← Main notebook containing the complete pipeline
+https://www.kaggle.com/datasets/wcukierski/enron-email-dataset
 ```
 
 ---
@@ -55,7 +44,7 @@ cd email-search-ai
 2. Open the notebook:
 
 ```bash
-jupyter notebook Copy_of_Email_Search_AI_Project_full_dataset.ipynb
+jupyter notebook Email_Search_AI_Project_full_dataset.ipynb
 ```
 
 3. Follow each cell step-by-step to:
@@ -92,8 +81,6 @@ jupyter notebook Copy_of_Email_Search_AI_Project_full_dataset.ipynb
 ## 🙋‍♀️ Author
 
 **Supriya U.**  
-Java Developer | Aspiring Machine Learning Engineer  
-[GitHub](https://github.com/) | [LinkedIn](https://www.linkedin.com/)
 
 ---
 
