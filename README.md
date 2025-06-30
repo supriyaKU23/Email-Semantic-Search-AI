@@ -82,8 +82,3 @@ jupyter notebook Email_Search_AI_Project.ipynb
 
 **Supriya Uppala.**  
 
----
-
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
