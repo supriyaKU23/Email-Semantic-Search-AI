@@ -26,7 +26,7 @@ This project builds a semantic search engine using the **Enron Email Dataset**. 
 ## 📁 Files
 
 ```
-📜 Email_Search_AI_Project_full_dataset.ipynb  ← Main notebook containing the complete pipeline
+📜 Email_Search_AI_Project.ipynb  ← Main notebook containing the complete pipeline
 https://www.kaggle.com/datasets/wcukierski/enron-email-dataset
 ```
 
