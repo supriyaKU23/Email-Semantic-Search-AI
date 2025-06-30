@@ -44,7 +44,7 @@ cd email-search-ai
 2. Open the notebook:
 
 ```bash
-jupyter notebook Email_Search_AI_Project_full_dataset.ipynb
+jupyter notebook Email_Search_AI_Project.ipynb
 ```
 
 3. Follow each cell step-by-step to:
@@ -80,7 +80,7 @@ jupyter notebook Email_Search_AI_Project_full_dataset.ipynb
 
 ## 🙋‍♀️ Author
 
-**Supriya U.**  
+**Supriya Uppala.**  
 
 ---
 
